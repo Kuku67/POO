@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+table {
+    margin-bottom: 2em;
+    border-collapse: collapse;
+}
+
+th {
+    color: white;
+    background-color: rgb(121, 121, 121);
+}
+
+td, th {
+    padding: .3em .3em;
+    border: 1px solid black;
+}
+
+.light-th {
+    background-color: rgb(151, 151, 151);
+}
